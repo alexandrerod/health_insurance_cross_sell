@@ -14,17 +14,6 @@ Assim como o seguro de saúde, os clientes desse novo plano de seguro precisam p
 
 Com a solução, o time de vendas espera conseguir priorizar as pessoas com maior interesse no novo produto e assim, otimizar a campanha realizando apenas contatos aos clientes mais propensos a realizar a compra.
 
-Ao final do projeto algumas análises e perguntas deverão ser respondidas e entregues em um relatório:
-
-Principais Insights sobre os atributos mais relevantes de clientes interessados em adquirir um seguro de automóvel.
-
-Qual a porcentagem de clientes interessados em adquirir um seguro de automóvel, o time de vendas conseguirá contatar fazendo 20.000 ligações?
-
-E se a capacidade do time de vendas aumentar para 40.000 ligações, qual a porcentagem de clientes interessados em adquirir um seguro de automóvel o time de vendas conseguirá contatar?
-
-Quantas ligações o time de vendas precisa fazer para contatar 80% dos clientes interessados em adquirir um seguro de automóvel?'
-
-
 # 3. Planejamento da solução
 
 As estratatégias utilizadas para resolver o problema foram:
