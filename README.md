@@ -94,7 +94,7 @@ Além disso, podemos notar na curva de lift que ao utilizar o modelo para seleci
 - O modelo utilizado para ordenar a lista com as maiores probabilidades de contratar o seguro tem uma performance 2.3 melhor que uma tomada de decisão aleatória ao utilizar apenas 40% da base de dados.
 - Maior parte das pessoas que contratariam o seguro veicular tem idade acima de 30 anos, o que faz sentido se for pensar que pessoas acima desta idade devem ter maior estabilidade financeira.
 
-# 9. Next Steps to Improve
+# 9. Próximos passos
 - Aplicar ténicas para balanceamento dos dados
 - Utilizar outros métodos de fine tuning
 - Utilizar outras técnias para seleção de features
