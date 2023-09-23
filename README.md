@@ -63,7 +63,7 @@ Aproximadamente 74% das pessoas que contratariam o seguro tem o carro de 1 a 2 a
 **Hipótese 02: Pessoas com idade acima de 30 anos contratam o seguro veicular**
 
 **Verdadeira.**
-<center><img alt="" width="50%" src="img/h2.png"></center>
+<center><img alt="" width="50%" src="img/h3.png"></center>
 
 85% das pessoas que contratam o seguro veicular tem idade acima de 30 anos.
 
