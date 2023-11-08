@@ -2,14 +2,17 @@ import pickle
 import pandas as pd
 from flask import Flask, request, Response
 from health.HealthInsurance import HealthInsurance
+
+
 #load model 
 
 
-model = pickle.load(open('/home/alexandrerod/Documentos/repos/health_insurance_cross_sell/models/xgb_model.pkl', 'rb'))
+model = pickle.load(open('/home/alexandrerod/Documentos/repos/health_insurance_cross_sell/models/xgb_tunned.pkl', 'rb'))
+
 #start api
 app = Flask(__name__)
 
-@app.route('/health/predict', methods=['POST'])
+@app.route('/predict', methods=['POST'])
 
 def health_insurance_predict():
     test_json = request.get_json()
